@@ -4,5 +4,10 @@ export const routes = [
         title: 'My First Blog Post',
         body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem eaex maiores minima minus nisiperspiciatis sapiente voluptate',
     },
+    {
+        id: 2,
+        title: 'My Second Blog Post',
+        body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem eaex maiores minima minus nisiperspiciatis sapiente voluptate',
+    },
 ];
    
